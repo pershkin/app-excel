@@ -166,7 +166,6 @@
 }
 .excel__table .col-resize, .excel__table .row-resize {
   position: absolute;
-  z-index: 10;
   bottom: -1px;
   right: 0;
   background-color: #3c74ff;
